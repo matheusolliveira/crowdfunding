@@ -28,4 +28,5 @@ Percebemos uma alta concentração em São Paulo (SP), representando mais de 58%
 ![evolucao_mes_e_ano](https://github.com/user-attachments/assets/48a184e0-b2bc-44fa-b5a9-02a4a41ad81b)
 
 Fonte dos dados: CVM (https://dados.cvm.gov.br/group/plataformas-de-crowdfunding)
+
 O estudo foi todo desenvolvido com webscraping, em Python
