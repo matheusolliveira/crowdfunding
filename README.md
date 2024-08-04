@@ -17,9 +17,11 @@ No Brasil, o crowdfunding tem ganhado força nos últimos anos por vários motiv
 - Crescimento da Cultura Empreendedora: O aumento da cultura empreendedora e a popularização de startups no Brasil também impulsionaram o crescimento do crowdfunding, pois muitos empreendedores buscam formas alternativas de financiar suas iniciativas.
 
 
-Percebemos uma alta concentração em São Paulo (SP), representando mais de 58%.
 
 ![concetracao_estado](https://github.com/user-attachments/assets/03c737b0-9a32-4eff-9d00-59578bf6256e)
+
+Percebemos uma alta concentração em São Paulo (SP), representando mais de 58%.
+
 
 ![evolucao_ano](https://github.com/user-attachments/assets/e7754a86-ea0b-4113-95d0-62547d4e9139)
 
